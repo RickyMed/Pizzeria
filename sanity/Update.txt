@@ -1,0 +1,4 @@
+// List of features to add
+  - If a pizza if fully vegetarian add a leaf symbol - sanity studio
+  - Filter for pizza - price, alphabet, etc.
+  - order online - process payment & have a custom tracker that lets client know the progress of the pizza
