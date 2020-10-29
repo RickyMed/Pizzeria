@@ -2,6 +2,9 @@ var plugins = [{
       plugin: require('/Users/rickymed/Desktop/Projects/Pizzeria/gatsby/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[]},
     },{
+      plugin: require('/Users/rickymed/Desktop/Projects/Pizzeria/gatsby/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      options: {"plugins":[]},
+    },{
       plugin: require('/Users/rickymed/Desktop/Projects/Pizzeria/gatsby/node_modules/gatsby-source-sanity/gatsby-ssr'),
       options: {"plugins":[],"projectId":"v93oiic7","dataset":"production","watchMode":true,"token":"skXV2CaNPGPXo12fz6alhr8bIfE31DaFBSkvpe1sHec536U5abSHn5VZpATzFwapIuPfZAH4cgRtag5v01xAbUj3qwTA4tUIIx5Sw0kWMaaFWLOBJGJ8gnXOyjhvTsnPxXwxPXuhaNqOAV8v1McDphZIU08LyYiZxi6v1IMQxBkcKNBStjZ7"},
     },{
